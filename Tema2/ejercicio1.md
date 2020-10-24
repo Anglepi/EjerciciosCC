@@ -10,7 +10,7 @@ Una vez hecho esto (en Ubuntu) tuve que cerrar y abrir el terminal para que los 
 
 Para utilizarlo, se puede recurrir de nuevo a la [documentación oficial](https://github.com/nvm-sh/nvm#usage), o, como alternativa, escribir *nvm* en la terminal para consultar la ayuda que ofrece:
 
-![Ayuda en la terminal ofrecida por *nvm*](https://github.com/Anglepi/EjerciciosCC/tree/main/Tema2/images/T1E1-nvmTerminal.png)
+![Ayuda en la terminal ofrecida por *nvm*](https://github.com/Anglepi/EjerciciosCC/blob/main/Tema2/images/T1E1-nvmTerminal.png)
 
 A continuación, voy a listar todas las versiones de *node.js* para buscar las que cumplan los requisitos expuestos en el enunciado: versión 4.9.1 (la minor más actual de la 4.X), y suponiendo que el enunciado está desactualizado, las últimas versiones de desarrollo a día de hoy son la 15.0.0 y 15.0.1, así que instalaré esta última.
 
@@ -19,4 +19,4 @@ A continuación, voy a listar todas las versiones de *node.js* para buscar las q
 
 Tras la instalación, consulto las versiones de que dispongo con *nvm ls*
 
-![Versiones de nvm instaladas, consultadas con *nvm ls*](https://github.com/Anglepi/EjerciciosCC/tree/main/Tema2/images/T1E1-nvmls.png)
+![Versiones de nvm instaladas, consultadas con *nvm ls*](https://github.com/Anglepi/EjerciciosCC/blob/main/Tema2/images/T1E1-nvmls.png)
